@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">exempledpk</string>
+    <string-array name="publicités">
+        <item>Resto de victor </item>
+        <item>Generaion Mitterrand </item>
+        <item>Realisation dun panneau </item>
+        <item>Impression numerique </item>
+        <item>Signalétique exterieur </item>
+        <item>Realisation des cartes visites</item>
+        <item>Generaion Mitterrand </item>
+        <item>Realisation dun panneau </item>
+        <item>Impression numerique </item>
+        <item>Signalétique exterieur </item>
+        <item>Realisation des cartes visites</item>
+        <item>Realisation des cartes visites</item>
+        <item>Generaion Mitterrand </item>
+        <item>Realisation dun panneau </item>
+        <item>Impression numerique </item>
+        <item>Signalétique exterieur </item>
+        <item>Realisation des cartes visites</item>
+    </string-array>
+    <string-array name="description">
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+    </string-array>
+    <string-array name="impression">
+        <item>Cest super</item>
+        <item>Fantastique</item>
+        <item>Cest super</item>
+        <item>Fantastique</item>
+        <item>Cest super</item>
+        <item>Fantastique</item>
+        <item>Cest super</item>
+        <item>Fantastique</item>
+        <item>Cest super</item>
+        <item>Fantastique</item>
+        <item>Cest super</item>
+        <item>Fantastique</item>
+        <item>Cest super</item>
+        <item>Fantastique</item>
+        <item>Cest super</item>
+        <item>Fantastique</item>
+        <item>Cest super</item>
+        <item>Fantastique</item>
+    </string-array>
+
+
+</resources>
