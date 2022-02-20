@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         toolbar=(Toolbar)findViewById(R.id.iw);
-        toolbar.setTitle(getResources().getString(R.string.app_name));
+        toolbar.setTitle("LISTES DES PUBLICITES");
         listView =( ListView)findViewById(R.id.ListVw);
         String[] s1;
         String[] s2;
@@ -34,8 +34,8 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int i, long l) {
                 Intent intent=new Intent(MainActivity.this,secondActivity.class);
                 intent.putExtra("Publicites",listView.getItemAtPosition(i).toString());
-                intent.putExtra("description",s1[i]);
-                intent.putExtra("impression",s2[i]);
+                intent.putExtra("description",getResources().getStringArray(R.array.description)[i]);
+                intent.putExtra("impression",getResources().getStringArray(R.array.impression)[i]);
                startActivity(intent);
 
             }

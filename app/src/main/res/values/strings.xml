@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">exempledpk</string>
+    <string name="app_name"></string>
     <string-array name="publicités">
         <item>Resto de victor </item>
         <item>Generaion Mitterrand </item>
@@ -20,7 +20,7 @@
         <item>Realisation des cartes visites</item>
     </string-array>
     <string-array name="description">
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>cest un resto bien equipéé</item>
         <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
         <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
         <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>

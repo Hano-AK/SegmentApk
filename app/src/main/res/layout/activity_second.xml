@@ -12,6 +12,17 @@
         android:background="@color/teal_700"
         tools:ignore="MissingConstraints" />
 
+
+    <TextView
+        android:id="@+id/descrip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="100dp"
+        android:text="Description"
+        tools:layout_editor_absoluteX="38dp"
+        tools:layout_editor_absoluteY="192dp"
+        android:textSize="14sp"
+        />
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
@@ -20,30 +31,15 @@
         tools:layout_editor_absoluteY="330dp"
         tools:srcCompat="@tools:sample/avatars" />
 
-    <TextView
-        android:id="@+id/descrip"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-
-        android:text="Description"
-        tools:layout_editor_absoluteX="38dp"
-        tools:layout_editor_absoluteY="192dp"
-        android:textSize="14sp"
-        />
-
 
     <TextView
         android:id="@+id/impression"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:padding="20dp"
+        android:paddingTop="150dp"
         android:text="impression"
         tools:layout_editor_absoluteX="38dp"
         tools:layout_editor_absoluteY="533dp" />
 
-    <ListView
-        android:layout_width="409dp"
-        android:layout_height="134dp"
-        tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="57dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
