@@ -1,48 +1,163 @@
 <resources>
     <string name="app_name"></string>
     <string-array name="publicités">
-        <item>Resto de victor </item>
+        <item>Frédéric Beigbeder</item>
         <item>Generaion Mitterrand </item>
         <item>Realisation dun panneau </item>
         <item>Impression numerique </item>
         <item>Signalétique exterieur </item>
         <item>Realisation des cartes visites</item>
-        <item>Generaion Mitterrand </item>
+        <item>International Museum Day 2022/fr </item>
+        <item>BestSeller </item>
+        <item>marketingSuccess </item>
+        <item>Campagne Presidentielle 2000 </item>
+        <item>Realisation des cartes visites2</item>
+        <item>Realisation des cartes visites3</item>
+        <item>Boutique de vente en ligne </item>
         <item>Realisation dun panneau </item>
         <item>Impression numerique </item>
         <item>Signalétique exterieur </item>
-        <item>Realisation des cartes visites</item>
-        <item>Realisation des cartes visites</item>
-        <item>Generaion Mitterrand </item>
-        <item>Realisation dun panneau </item>
-        <item>Impression numerique </item>
-        <item>Signalétique exterieur </item>
-        <item>Realisation des cartes visites</item>
+        <item>Realisation des cartes visites 4</item>
     </string-array>
     <string-array name="description">
-        <item>cest un resto bien equipéé</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
-        <item>blablallalllllllllllllaaalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</item>
+        <item>En 1990, âgé de vingt-quatre ans, il publie son premier roman, Mémoires d'un jeune homme dérangé aux éditions de la Table ronde4.
+
+En 1994 paraît son deuxième roman, Vacances dans le coma puis, en 1997, L'amour dure trois ans, qui clôt la trilogie de Marc Marronnier. Suit un recueil de nouvelles chez Gallimard en 1999, Nouvelles sous ecstasy.
+
+En 2000, Frédéric Beigbeder est licencié pour faute grave de chez Young & Rubicam12, peu après la parution de son roman satirique 99 francs10, roman qui épingle les travers de la publicité.
+
+Son roman Windows on the World, qui se déroule dans les tours jumelles du World Trade Center durant les attentats du 11 septembre 2001, reçoit le prix Interallié en 2003, et sa traduction anglaise (par Frank Wynne) est récompensée de l'Independent Foreign Fiction Award en 200513.
+
+En 2005, il publie L'Égoïste romantique. En novembre de cette même année, il est, avec Alain Decaux, Mohamed Kacimi, Richard Millet, Daniel Rondeau et Jean-Pierre Thiollet, l'un des participants du Salon du livre de Beyrouth. En 2007, il publie Au secours pardon (suite des aventures d'Octave, le héros de 99 francs). Le 28 janvier 2008 à Paris, Frédéric Beigbeder et un ami, l'écrivain Simon Liberati, sont surpris, penchés sur le capot d'une voiture, par une patrouille de police peu après 3 heures du matin dans le VIIIe arrondissement de Paris. Dans les poches de l'écrivain, la police trouve deux sachets contenant l'équivalent de 2,6 grammes de cocaïne, qu'il consomme de manière assumée14. Ils sont relâchés le surlendemain15. Cet épisode est à l'origine d'une polémique impliquant le procureur de la République de Paris : Jean-Claude Marin est, en effet, placé « en détention non provisoire » au chapitre 27 de Un roman français de Frédéric Beigbeder, paru le 18 août 2009 chez Grasset. Invoquant la peur des conséquences judiciaires, l'éditeur demande à l'écrivain de retirer certains passages du livre16,17,18.
+
+En 2020, il publie L'homme qui pleure de rire, continuant les aventures d'Octave Parango, maintenant humoriste dans la matinale de la première radio de France.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+        
+        
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+         <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, error tempore! Dolorem laborum inventore numquam, nihil quae tempora aliquam repellendus itaque quaerat reiciendis harum, hic repellat quisquam eligendi cupiditate asperiores. Nobis doloribus
+                            enim a culpa quos dignissimos consequatur libero, placeat, fugit pariatur delectus eveniet cum suscipit optio? Fuga, aperiam, excepturi, ad sequi ab explicabo tenetur magnam amet exercitationem officia dolores. Nam, error provident?
+                            Id officiis minima cumque accusamus alias! Officiis velit dolores nulla perspiciatis, minus explicabo quas aspernatur laborum, at debitis odit sapiente cumque architecto adipisci quia, vero veritatis magni? Libero inventore
+                            voluptates ratione distinctio eum perspiciatis officia praesentium error, optio, amet aliquam ut neque quae enim totam quibusdam reiciendis itaque sint soluta. Beatae explicabo dolore maxime saepe natus eum. Doloremque corrupti
+                            vero beatae cumque! Autem, aperiam! Placeat ipsa ad rerum omnis ex repudiandae aperiam, sapiente vel fuga temporibus consectetur possimus pariatur saepe magnam quos, officiis quod cum corporis dignissimos? Id ullam animi fuga?
+                            Neque deleniti autem laboriosam commodi, deserunt saepe perferendis iste expedita maxime ut necessitatibus quos. Nisi unde, rerum quibusdam fuga earum libero doloribus totam nam aspernatur mollitia. Corporis facilis ipsa cumque
+                            beatae laboriosam totam maxime, neque nisi asperiores quaerat animi sunt, quibusdam optio nihil? Aliquid mollitia tempore tenetur harum natus, qui ut dicta id tempora debitis iure.</item>
+        
     </string-array>
     <string-array name="impression">
         <item>Cest super</item>
         <item>Fantastique</item>
-        <item>Cest super</item>
+        <item>Non,je n'aime pas</item>
         <item>Fantastique</item>
         <item>Cest super</item>
         <item>Fantastique</item>
